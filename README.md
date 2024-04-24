@@ -1,5 +1,3 @@
-# Zgy-DataMining
-数据挖掘大作业
 # 数据挖掘大作业
 ### 一．注册GitHub用户
 
